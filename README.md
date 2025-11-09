@@ -41,7 +41,7 @@ The final plot shows a clear separation between the 100 classical tracks (blue) 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Aidin-Sahneh/Music-Fingerprint-Analyzer.git](https://github.com/Aidin-Sahneh/Music-Fingerprint-Analyzer.git)
+    git clone https://github.com/Aidin-Sahneh/Music-Fingerprint-Analyzer.git
     cd Music-Fingerprint-Analyzer
     ```
 
@@ -59,7 +59,7 @@ The final plot shows a clear separation between the 100 classical tracks (blue) 
     .\venv\Scripts\activate
     
     # Activate it (Mac/Linux)
-    # source vVenv/bin/activate
+    # source venv/bin/activate
     ```
 
 4.  **Install Dependencies:**
